@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.158" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/ic_money_wallet_open_icon.xml" value="0.158" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/ic_outline_check_24.xml" value="0.158" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/selector_text.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/selectpr_text.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_backgrond.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_background.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_background_button.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_background_end_sood.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_background_end_zarar.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_backgrund_buttom.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shape_zarbdar.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/drawable/shepe_tik.xml" value="0.1575" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout-v21/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout-v21/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/Job/android/SoodVaZiyan/app/src/main/res/layout/activity_main4.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

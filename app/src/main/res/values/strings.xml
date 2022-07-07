@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoodVaZiyan</string>
+    <string name="sood">تبریک شما سود خواهید کرد</string>
+    <string name="zarrar">متاسفانه شما ضرر خواهید کرد</string>
+</resources>
